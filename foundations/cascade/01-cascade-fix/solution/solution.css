@@ -90,7 +90,7 @@ div.text {
   Another solution would be to keep the rule where it was and just replace the div selector with the .text selector:
 
   .text .child {
-    color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);url(https://file%2B.vscode-resource.vscode-cdn.net/Users/ardatas/Desktop/repos/css-exercises/foundations/cascade/01-cascade-fix/desired-outcome.png?version%3D1753812507381)
     font-weight: 800;
     font-size: 14px;
   }
